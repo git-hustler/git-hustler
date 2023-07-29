@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=git-hustler&label=Profile%20views&color=0e75b6&style=flat" alt="git-hustler" /> </p>
 
-- 🌱 I’m currently learning **ReactJs, Web Development**
+- 🌱 I’m currently learning **ReactJs, .NET**
 
 - 💬 Ask me about **React, Node, SQL**
 
